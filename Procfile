@@ -1,0 +1,1 @@
+web: gunicorn clever_programer.wsgi
